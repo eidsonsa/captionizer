@@ -9,3 +9,6 @@ Ordem dos arquivos
 - evaluate-model.py (deve-se mudar o nome do modelo)
 - create-tokenizer.py 
 - captionizer.py (imagem a ser legendada pode ser alterada)
+
+
+Reprodução Machine Learning Mistery
